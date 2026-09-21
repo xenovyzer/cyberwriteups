@@ -4,6 +4,10 @@ A collection of hands-on cybersecurity lab writeups documenting my practical lea
 
 ---
 
+## 📌 About
+This repo is actively updated as I progress through cybersecurity studies and lab environments. I'm currently working toward entry-level security roles with a focus on SOC analysis and threat detection.
+
+
 ## 📁 Contents
 
 ### 🔍 [EDR Lab – TryHackMe](./EDR-lab.md)
@@ -28,6 +32,3 @@ A structured vulnerability assessment report produced as part of lab work. Cover
 - Alert Triage & Threat Investigation
 
 ---
-
-## 📌 About
-This repo is actively updated as I progress through cybersecurity studies and lab environments. I'm currently working toward entry-level security roles with a focus on SOC analysis and threat detection.
