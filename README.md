@@ -1,11 +1,11 @@
 # Cybersecurity Writeups & Lab Documentation
 
-A collection of hands-on cybersecurity lab writeups documenting my practical learning journey across home labs, TryHackMe rooms, and certification prep.
+Collection of cyber security and IT related labs completed and documented by me.
 
 ---
 
 ## 📌 About
-This repo is actively updated as I progress through cybersecurity studies and lab environments. I'm currently working toward entry-level security roles with a focus on SOC analysis and threat detection.
+This repo is a collation of different labs from different sub fields of technology that I find interesting both as an individual and aspiring professional. All of the work you see here is conducted by myself but aided with the use of AI. 
 
 
 ## 📁 Contents
@@ -19,6 +19,7 @@ Hands-on lab using a simulated EDR dashboard to investigate endpoint alerts acro
 ---
 
 ### 📄 [Vulnerability Assessment Report](./Vulnerability%20assessment%20report.pdf)
+**Platform:** Google Cybersecurity Certificate 
 **Topics:** Vulnerability Assessment, Risk Identification, Security Reporting  
 
 A structured vulnerability assessment report produced as part of lab work. Covers the identification, classification, and documentation of security vulnerabilities following industry-standard reporting practices.
